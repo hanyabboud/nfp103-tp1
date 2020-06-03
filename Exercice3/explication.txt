@@ -1,0 +1,2 @@
+L'erreur se fait quand l'un des thread ajoute "x" a la valeur et une autre ajoute "y" a cette valeur parsuite quand la premiere thread continue pour retiter x => x + y - x, 
+le resultat sera > 0 Donc != 0 parsuite le programme s'arrete
